@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table {
+    border: none;
+}
+td {
+    font-size: medium;
+    padding: 10px;
+    font-weight: bold;
+}
+input {
+    padding: 7px 14px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 15px;
+}
+.footer {
+    margin: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+button {
+    background-image: linear-gradient(to right, rgba(0,0,255,0.4),rgba(128,0,128,0.8));
+    border: none;
+    border-radius: 15px;
+    padding: 10px 40px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    transition: .3s;
+    width: 280px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+.aside {
+    margin: 15px;
+    font-size: 18px;
+}
